@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1515907395 source:c:\users\sony\desktop\dm\dmaster\main.cpp
+	<iostream>
+	<fstream>
+	<queue>
+	<ctime>
+	<stdlib.h>
+
